@@ -1,16 +1,10 @@
 # toonflix
 
 A new Flutter project.
+참고자료 : 노마드 코더 <Flutter 로 웹툰 앱 만들기> 강의
 
-## Getting Started
+- [Stateful Widget 예제](https://github.com/jiyuunyang/toonflix/tree/stateful)
+- [UI 예제](https://github.com/jiyuunyang/toonflix/tree/stateless)
+- [강의 노트](https://jiyuunyang.tistory.com/category/Frontend/Dart%26Flutter)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
